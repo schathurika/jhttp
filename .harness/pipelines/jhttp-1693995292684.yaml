@@ -12,7 +12,7 @@ pipeline:
   stages:
     - stage:
         identifier: build
-        name: build
+        name: build2
         spec:
           cloneCodebase: true
           execution:
